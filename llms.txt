@@ -1,0 +1,8 @@
+# Systems Research Institute #04
+
+> Empirical Research in Algorithmic Citability & Information Gain in Neural Search Engines
+
+## Published Research
+- [Algorithmic Citability & Information Gain in Neural Search Engines: Empirical Monograph #4](algorithmic-citability-neural-search-monograph-4.html): An empirical benchmark analyzing algorithmic citability & information gain in neural search engines, AST parsing efficiency, and autonomous agent orchestration.
+- [Token Consumption Economics in Developer Agent Swarms (Vol. 4)](token-consumption-economics-vol-4.html): Analyzing prompt token overhead and context caching strategies in high-frequency multi-agent workflows.
+- [Deterministic DOM Profiling and Core Web Hygiene (Vol. 4)](deterministic-dom-profiling-vol-4.html): Evaluating zero-JS rendering pipelines and edge caching for optimal machine readability.
